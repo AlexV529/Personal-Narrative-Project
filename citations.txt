@@ -1,0 +1,10 @@
+What I prompted:
+Im creating drawIntroBarGraph method. 
+I iterated through the 2d array with nested for loop
+----------------------------------------------------------------------
+What response I recieved:
+It showed me the method. I needed a starting x coordinate
+i needed to create the height for each bar
+i needed to draw the rectangles or bars
+x += 30 so they dont stay in the same place
+----------------------------------------------------------------------
